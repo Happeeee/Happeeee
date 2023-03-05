@@ -1,8 +1,6 @@
 <div align="center"> 
  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9E0F&height=100&&section=header&text=😆👋&fontAlign=90&fontSize=40)
-
-### :sparkles: Tech Stack :sparkles:
+ ### :sparkles: Tech Stack :sparkles:
  <img src="https://img.shields.io/badge/JAVA-FF9E0F?style=flat-square&logo=java&logoColor=white"/> 
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
@@ -20,12 +18,6 @@
   </br>
   </br>
 
-![Happeeee's github stats](https://github-readme-stats.vercel.app/api?username=Happeeee&show_icons=true)
-
-</br>
-
 :star2:**BackEnd Engineer:star2:--------------------:computer:Project:computer:--------------:books:Study:books:-------------------------**:fire::running::fire:
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9E0F&height=100&&section=footer&reversal=true/">
 
 </div>

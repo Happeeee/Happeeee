@@ -1,5 +1,7 @@
 <div align="center"> 
  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9E0F&height=100&&section=header&text=😆👋&fontAlign=90&fontSize=40)
+ 
  ### :sparkles: Tech Stack :sparkles:
  <img src="https://img.shields.io/badge/JAVA-FF9E0F?style=flat-square&logo=java&logoColor=white"/> 
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
@@ -8,6 +10,7 @@
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 
 
+  </br>
   </br>
   </br>
 

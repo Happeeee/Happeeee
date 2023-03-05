@@ -20,8 +20,6 @@
   </br>
   </br>
 
-![Happeeee's github stats](https://github-readme-stats.vercel.app/api?username=Happeeee&show_icons=true)
-
 </br>
 
 :star2:**BackEnd Engineer:star2:--------------------:computer:Project:computer:--------------:books:Study:books:-------------------------**:fire::running::fire:

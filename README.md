@@ -22,7 +22,7 @@
 
 </br>
 
-:star2:**BackEnd Engineer:star2:--------------------:computer:Project:computer:--------------:books:Study:books:-------------------------**:fire::running::fire:
+`:star2:**BackEnd Engineer:star2:--------------------:computer:Project:computer:--------------:books:Study:books:-------------------------**:fire::running::fire:`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9E0F&height=100&&section=footer&reversal=true/">
 

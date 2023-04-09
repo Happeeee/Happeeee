@@ -1,7 +1,9 @@
-## Welcome to Happeeee's Github!
+# Welcome to Happeeee's Github!
 
-### About me
+## About me
 Kangwon National University Dept. of Computer Engineering (2019.03 ~)
+
+</br>
 
 ### :sparkles: Tech Stack
  <img src="https://img.shields.io/badge/JAVA-FF9E0F?style=flat-square&logo=java&logoColor=white"/> 
